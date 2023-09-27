@@ -13,5 +13,4 @@
 
 import hello from "./example.mjs";
 
-hello()
-38min
+hello();
